@@ -1,4 +1,4 @@
-Name: Hyun Joon Jeong
-SID: 2049****
+Name: John APPLESEED
+SID: 12345678
 Screenshot of history
 ![history](history.png)

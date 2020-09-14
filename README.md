@@ -1,2 +1,4 @@
 Name: Hyun Joon Jeong
-SID: 20495988
+SID: 2049****
+Screenshot of history
+![history](history.png)
